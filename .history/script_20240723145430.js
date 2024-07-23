@@ -52,7 +52,7 @@ btnRoll.addEventListener('click', function () {
 
     
     diceEl.classList.remove('dice--hidden');
-    diceEl.src = `./dice-game-main/image/dice-${dice}.png`;
+    diceEl.src = `..-${`;
     
     if (dice !== 1) {
       // Add dice to current score
